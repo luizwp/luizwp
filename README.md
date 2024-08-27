@@ -3,7 +3,7 @@
 ## 🙍 About me:
 - ⚡ I'm Luiz, a dedicated front end developer with 8 months of practical experience at Infinity School. I have a passion for creating dynamic and responsive user interfaces that deliver a great experience for end users.
 - 📫 How to reach me: <a href="https://wa.me/8594143416"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
-- <div align="center">
+## <div align="center">
 <a href="https://github.com/luizwp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizwp&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
@@ -38,4 +38,3 @@
 ### Tools and Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-
