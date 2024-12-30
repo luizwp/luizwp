@@ -1,7 +1,7 @@
 # Hi there 👋, Welcome to my GitHub profile 😄
 
 ## 🙍 About me:
-- ⚡ I'm Luiz, a dedicated front end developer with 9 months of practical experience at Infinity School. I have a passion for creating dynamic and responsive user interfaces that deliver a great experience for end users.
+- ⚡ I'm Luiz, a dedicated front end developer with 1 year and 2 months of practical experience at Infinity School. I have a passion for creating dynamic and responsive user interfaces that deliver a great experience for end users.
 - 📫 How to reach me: <a href="https://wa.me/8594143416"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 ## <div align="center">
 <a href="https://github.com/luizwp">
