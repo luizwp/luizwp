@@ -2,7 +2,6 @@
 
 ## 🙍 About me:
 - ⚡ I'm Luiz, a dedicated front end developer with 1 year and 2 months of practical experience at Infinity School. I have a passion for creating dynamic and responsive user interfaces that deliver a great experience for end users.
-- 📫 How to reach me: <a href="https://wa.me/8594143416"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 ## <div align="center">
 <a href="https://github.com/luizwp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizwp&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -11,7 +10,7 @@
 ## 🔥 Neighboring networks
 <div> 
  <a href="https://www.youtube.com/channel/UCUIYAvrc0Cl4hS3Mt_oTruw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/nobody.fec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/fehh.eu_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "epanenem4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-felipe-6ba789302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
